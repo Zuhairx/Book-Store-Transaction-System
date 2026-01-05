@@ -1,4 +1,4 @@
-# 📚 Book Store Management System (Java Console App)
+# 📚 Book Store Transaction System (Java Console App)
 
 A simple yet functional **Java console-based application** designed to simulate a bookstore transaction system. This project focuses on implementing **basic business logic, data handling, and user input validation** using core Java concepts.
 
